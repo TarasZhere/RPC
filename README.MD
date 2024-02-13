@@ -7,7 +7,7 @@ Very Simple RPCs built with sockets in python.
 ```python
 from rpc import RPCClient
 
-server = RPCClient('0.0.0.0', 8080)
+server = RPCClient('localhost', 8080)
 
 server.connect()
 
