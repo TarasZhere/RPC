@@ -1,4 +1,4 @@
-# RPC in Pyhton
+# RPC in Python
 
 Very Simple RPCs built with sockets in python.
 
